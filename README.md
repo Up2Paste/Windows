@@ -1,8 +1,12 @@
-Ceci est la version pour Windows de l'outil Up2Paste.
+Ceci est la version pour Windows de l'outil Up2Paste (U2P).
 
-Clique ci-dessus sur le menu "Code" -> "Download ZIP".
+Up2Paste permet de créer un fichier au format Pastebin pour être utilisé avec vStream.
+
+Cliquez ci-dessus sur le menu "Code" -> "Download ZIP".
 
 Une fois décompressé sur votre PC, rendez-vous ici pour l'utilisation : 
+
+https://github.com/Up2Paste/Windows/wiki/TUTORIAL-Up2Paste
 
 
 <!--
