@@ -1,0 +1,38 @@
+new version 0.94
+correction pb maj pastebin serie
+
+modif config
+
+[Pastebin]
+actif = 1
+user =
+password =
+film =
+serie1 =
+serie2 =
+anime =
+
+[Cast]
+16483 = Sylvester Stallone
+
+[Config]
+lang = fr
+name = test
+certification = 16
+nbFormat = 0
+majCast = 0 <=========
+
+*regroupement pour paste
+
+*onglet cast
+vous mettrez la liste des acteurs sous la forme
+numId = Nom acteur
+numId 2 = acteur2
+etc....
+
+*dans[Config]
+majCast = 0
+0 => verifies qu il n'y a pas de nouveau acteur et ajoute si besoin
+1 => efface la sauvegarde des acteurs et rescanne l'ensemble
+
+pour l'instant ce ne créé qu 'une base qui sera exploiter pour des repertoires filmographies
