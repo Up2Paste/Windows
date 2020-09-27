@@ -1,4 +1,9 @@
-### Hi there 👋
+Ceci est la version pour Windows de l'outil Up2Paste.
+
+Clique ci-dessus sur le menu "Code" -> "Download ZIP".
+
+Une fois décompressé sur votre PC, rendez-vous ici pour l'utilisation : 
+
 
 <!--
 **Up2Paste/Up2Paste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
