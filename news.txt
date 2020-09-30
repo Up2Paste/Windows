@@ -1,3 +1,6 @@
+0.9.5a
+coorection dict anime
+
 0.9.5
 ajout pris en charge nouveaux format express reg pour anime
 filtre fichier anime rar, nfo etc 
