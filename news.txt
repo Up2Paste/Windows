@@ -1,4 +1,13 @@
-new version 0.94
+0.9.5
+ajout pris en charge nouveaux format express reg pour anime
+filtre fichier anime rar, nfo etc 
+
+nouveau format colonne
+activation cast (acteur)
+bridage a 2 fois pastebin auto en attendant reglemnt probleme
+
+
+0.9.4a
 correction pb maj pastebin serie
 
 modif config
