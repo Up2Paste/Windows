@@ -1,3 +1,7 @@
+0.9.5b
+ajout masques Anime
+correction maj auto pastebin
+
 0.9.5a
 coorection dict anime
 
