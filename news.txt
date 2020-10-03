@@ -1,3 +1,26 @@
+0.9.6b
+maj auto pastebin est une option
+si des problemes de connexion 
+mettre actif = 0
+et copier les paste en manuel
+
+Ajout chrome portable
+
+1)installer GoogleChromePortable_85.0.4183.121_online.paf.exe
+c'est la version 85 car elle est adaptée a chromedriver
+Pour l'extraction elle se fait dans le rep U2P et changer le nom de:
+GoogleChromePortable en => chromePortable
+
+ 
+2)demarrer "seleniumPortable.exe" se connecter sur pasteBin et se logger
+ensuite procedure normale pour U2P
+
+ps: si par la suite ca bloque sur cloudflare en boucle, quittez U2P
+demarrer "seleniumPortable.exe" se deconnecter et se reconnecter sur pasteBin.com
+ensuite procedure normale pour U2P
+
+correction anime de Episodes(p1) => Episodes(p01) 
+
 0.9.5b
 ajout masques Anime
 correction maj auto pastebin
