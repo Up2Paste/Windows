@@ -1,5 +1,5 @@
 0.9.6c
-correction eccent
+correction accent
 
 0.9.6b
 maj auto pastebin est une option
