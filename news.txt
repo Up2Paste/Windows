@@ -1,3 +1,6 @@
+0.9.6c
+correction eccent
+
 0.9.6b
 maj auto pastebin est une option
 si des problemes de connexion 
