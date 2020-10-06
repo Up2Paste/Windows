@@ -1,3 +1,8 @@
+0.9.7
+ajout 2eme paste film donc new fichier config
+suppression kill chrome et chromedriver
+a vous de le gerer
+
 0.9.6c
 correction accent
 
