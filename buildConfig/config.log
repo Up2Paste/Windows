@@ -1,0 +1,33 @@
+Traceback (most recent call last):
+  File "D:\openclass\mac_giver\env34\lib\configparser.py", line 823, in items
+    d.update(self._sections[section])
+KeyError: 'Config'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "config.py", line 636, in <module>
+  File "config.py", line 34, in __init__
+  File "D:\openclass\mac_giver\env34\lib\configparser.py", line 826, in items
+    raise NoSectionError(section)
+configparser.NoSectionError: No section: 'Config'
+Traceback (most recent call last):
+  File "config.py", line 292, in __init__
+FileNotFoundError: [Errno 2] No such file or directory: '../bd/listCast.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "config.py", line 636, in <module>
+  File "config.py", line 295, in __init__
+FileNotFoundError: [Errno 2] No such file or directory: '../bd/listCast.txt'
+Traceback (most recent call last):
+  File "config.py", line 292, in __init__
+FileNotFoundError: [Errno 2] No such file or directory: '../bd/listCast.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "config.py", line 636, in <module>
+  File "config.py", line 295, in __init__
+FileNotFoundError: [Errno 2] No such file or directory: '../bd/listCast.txt'
