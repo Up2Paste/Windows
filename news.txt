@@ -1,3 +1,38 @@
+0.9.8.0.1
+0.9.8 version de U2P
+0.1 version configU2P
+U2P
+pour 1fichier
+remettre dans url fournisseur => https://1fichier.com/?
+gestion extraction des formats
+
+autre
+liste acteurs sorti de config et est dans fichier listCast.txt dans repertoire bd
+gestion des pastes films et series revue
+on passe de 
+film1 = xxxx
+film2 = yyyy
+a 
+film = xxxx,yyyy,zzzz etc...
+
+nouvel outil configU2P.exe version 0.1
+sous forme de notepad
+onglet 1 => config
+il va importer votre config (utf-8) et reformater au nouveau format
+en principe il gere (faites copie quand meme avant de votre config lol..)
+il y a des infos bulle pour donner une petite explication de l'utilite des entry
+(c'est pas un concours d'ortographe) 
+sauvegarder a la fin , donc plus besoin d'editer a la main
+
+onglet2 => gestion TMDB
+c'est fastidieux de modifier une erreur dans la base quand le choix a ete mauvais
+c'est un outil , pour y avoir acces , supprimer le film mal referencé et au prochain scan U2P il vous sera redemandé
+lire info-bulle
+si ca vous convient je ferais serie
+
+d'autres onglets arriveront ....
+
+
 0.9.7
 ajout 2eme paste film donc new fichier config
 suppression kill chrome et chromedriver

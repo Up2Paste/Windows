@@ -1,0 +1,2 @@
+config.exe
+cmd

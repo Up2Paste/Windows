@@ -1,0 +1,7 @@
+[10024:11360:0927/160230.774:INFO:CONSOLE(1)] "Video gallery initializing", source: https://snigelweb-com.videoplayerhub.com/videoloader.js (1)
+[10024:11360:0927/160231.040:INFO:CONSOLE(3)] "fun-hooks: referenced 'registerAdserver' but it was never created", source: https://cdn.snigelweb.com/prebid/latest/prebid.js (3)
+[10024:11360:0927/160317.948:INFO:CONSOLE(1)] "Video gallery initializing", source: https://snigelweb-com.videoplayerhub.com/videoloader.js (1)
+[10024:11360:0927/160318.052:INFO:CONSOLE(3)] "fun-hooks: referenced 'registerAdserver' but it was never created", source: https://cdn.snigelweb.com/prebid/latest/prebid.js (3)
+[10024:11360:0927/160322.333:INFO:CONSOLE(1)] "Video gallery initializing", source: https://snigelweb-com.videoplayerhub.com/videoloader.js (1)
+[10024:11360:0927/160322.500:INFO:CONSOLE(3)] "fun-hooks: referenced 'registerAdserver' but it was never created", source: https://cdn.snigelweb.com/prebid/latest/prebid.js (3)
+[10024:264:0927/160402.577:WARNING:gpu_process_host.cc(1256)] The GPU process has crashed 1 time(s)

@@ -1,0 +1,40 @@
+[Config]
+lang = {lang}
+name = {name}
+certification = {certification}
+nbFormat = {nbFormat}
+majCast = {majCast}
+
+[Extract]
+serie = {extractSerie}
+film = {extractFilm}
+anime = {extractAnime}
+stockage = {stockage}
+modeTMDB = {modeTMDB}
+linkFolderFilm = {lienRepUpto}
+
+[keys]
+keyMovieDB = {keyTMDB}
+keyUpto = {keyUpto}
+key1fichier = {key1fichier}
+
+[Fournisseur]
+url= {urlBase}
+
+[RepDistant]
+serie = {repDistantSerie}
+film = {repDistantFilm}
+anime = {repDistantAnime}
+groupe = {groupe}
+
+
+[Pastebin]
+actif = {pastebinActif}
+user = {pastebinUser}
+password = {pastebinPassword}
+film = {pastebinFilms}
+serie = {pastebinSeries}
+anime = {pastebinAnimes}
+
+[Logger]
+niveau = {niveauLog}
