@@ -1,3 +1,16 @@
+0.9.8c.0.1d
+configU2P.exe
+correction affichage
+
+download le zip et extraire
+si install precedente
+importer les repertoires bd, config, et chromeportable
+ouvrez configU2P.exe
+il va importer votre config (utf-8) et reformater au nouveau format
+
+sinon installer chromeportable , voir plus bas explication 0.9.6b
+configurer le u2p
+
 0.9.8b.0.1b
 correction import key 1fichier
 
