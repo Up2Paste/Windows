@@ -1,3 +1,6 @@
+0.9.8d.0.1d
+correction maj pastebin 2eme paste 
+
 0.9.8c.0.1d
 configU2P.exe
 correction affichage
