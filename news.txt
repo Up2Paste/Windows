@@ -1,3 +1,6 @@
+0.9.8d.0.1e
+correction format 1fichier
+
 0.9.8d.0.1d
 correction maj pastebin 2eme paste 
 
