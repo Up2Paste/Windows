@@ -1,3 +1,7 @@
+0.9.8d.0.2a
+export avec le nom film et rep 
+mise en place ftp pour envoi sur serveur distant strùm
+
 0.9.8d.0.2
 corrrection TMDB trois formats
 

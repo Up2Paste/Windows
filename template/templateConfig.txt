@@ -18,6 +18,12 @@ keyMovieDB = {keyTMDB}
 keyUpto = {keyUpto}
 key1fichier = {key1fichier}
 
+[FTP]
+ip = {ip}
+login = {login}
+password = {password}
+repDistant = {repdistant}
+
 [Fournisseur]
 url= {urlBase}
 
