@@ -1,3 +1,7 @@
+0.9.8d.0.3
+connecteur HTML
+permet de creer un fichier csv pour qu il soit scanné par U2P , creation d'un paste
+
 0.9.8d.0.2a
 export avec le nom film et rep 
 mise en place ftp pour envoi sur serveur distant strùm
