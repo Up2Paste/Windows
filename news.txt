@@ -1,4 +1,9 @@
-0.9.8d.0.3
+0.9.8f.0.3
+correction année Null
+connecteur html , exploration dossier , sous dossier , etc etc..
+beaucoup , beaucoup plus long
+
+0.9.8e.0.3
 connecteur HTML
 permet de creer un fichier csv pour qu il soit scanné par U2P , creation d'un paste
 
