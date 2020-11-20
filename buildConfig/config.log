@@ -1,0 +1,31 @@
+Traceback (most recent call last):
+  File "config.py", line 36, in <module>
+ImportError: No module named 'renameMedia'
+AttributeError Exception in Tk callback
+  Function: <bound method Config.insertUptoSerie of <__main__.Config object at 0x02B73E50>> (type: <class 'method'>)
+  Args: ()
+Traceback (innermost last):
+  File "D:\openclass\mac_giver\configU2p\Pmw2.py", line 1823, in __call__
+    return self.func(*args)
+  File "config.py", line 673, in insertUptoSerie
+    None
+  File "D:\openclass\mac_giver\configU2p\uptobox2.py", line 21, in __init__
+    if self.login() == False:
+  File "D:\openclass\mac_giver\configU2p\uptobox2.py", line 272, in login
+    logger.info("nom: %s , pass:%s" %(self.username, self.password))
+AttributeError: 'Uptobox' object has no attribute 'username'
+
+AttributeError Exception in Tk callback
+  Function: <bound method Config.insertUptoSerie of <__main__.Config object at 0x02B73E50>> (type: <class 'method'>)
+  Args: ()
+Traceback (innermost last):
+  File "D:\openclass\mac_giver\configU2p\Pmw2.py", line 1823, in __call__
+    return self.func(*args)
+  File "config.py", line 673, in insertUptoSerie
+    None
+  File "D:\openclass\mac_giver\configU2p\uptobox2.py", line 21, in __init__
+    if self.login() == False:
+  File "D:\openclass\mac_giver\configU2p\uptobox2.py", line 272, in login
+    logger.info("nom: %s , pass:%s" %(self.username, self.password))
+AttributeError: 'Uptobox' object has no attribute 'username'
+

@@ -1,4 +1,18 @@
-0.9.8f.0.3
+0.9.8g.0.4
+U2P
+possibilite d'ajouter dans le nom du film le numid tmdb afin de squizzer la recherche classique,
+afin d'eviter plusieurs renommages infructueux
+ex: film.mkv => film_TM12345TM.mkv la 12345 est le numid de the movie dbet doit etre mis entre 2 TM
+
+configU2P
+possibilité d'uploder les liens upto sur votre compte (serie)
+mettre les liens les uns en dessous des autres de la meme saison
+click serie
+proposer une liste de serie s'il trouve , vous double cliquez sur celle de votre choix
+il creera les repertoires is besoins et uploadera sur votre compte
+le repertoire de destination de base est le rep distant defini dans config  
+   
+0.9.8f.0.3a
 correction année Null
 connecteur html , exploration dossier , sous dossier , etc etc..
 beaucoup , beaucoup plus long
