@@ -1,3 +1,9 @@
+0.9.9.0.5
+U2P
+test categorie divers , tout ce que ne reconnait pas tmdb (sport etc..)
+configU2P
+adapté a la nouvelle categorie 
+
 0.9.8g.0.4
 U2P
 possibilite d'ajouter dans le nom du film le numid tmdb afin de squizzer la recherche classique,

@@ -9,6 +9,7 @@ majCast = {majCast}
 serie = {extractSerie}
 film = {extractFilm}
 anime = {extractAnime}
+divers = {extractDivers}
 stockage = {stockage}
 modeTMDB = {modeTMDB}
 linkFolderFilm = {lienRepUpto}
@@ -18,12 +19,6 @@ keyMovieDB = {keyTMDB}
 keyUpto = {keyUpto}
 key1fichier = {key1fichier}
 
-[FTP]
-ip = {ip}
-login = {login}
-password = {password}
-repDistant = {repdistant}
-
 [Fournisseur]
 url= {urlBase}
 
@@ -31,6 +26,7 @@ url= {urlBase}
 serie = {repDistantSerie}
 film = {repDistantFilm}
 anime = {repDistantAnime}
+divers = {repDistantDivers}
 groupe = {groupe}
 
 
@@ -41,6 +37,7 @@ password = {pastebinPassword}
 film = {pastebinFilms}
 serie = {pastebinSeries}
 anime = {pastebinAnimes}
+divers = {pastebinDivers}
 
 [Logger]
 niveau = {niveauLog}
