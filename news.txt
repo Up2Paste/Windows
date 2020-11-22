@@ -1,3 +1,7 @@
+0.9.9.0.5a
+configU2P
+ajout Upload film et possibilité dans un sous repertoire
+
 0.9.9.0.5
 U2P
 test categorie divers , tout ce que ne reconnait pas tmdb (sport etc..)
