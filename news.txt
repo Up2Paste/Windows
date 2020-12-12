@@ -2,14 +2,14 @@
 U2P
 possibilite ajout resolution en manuelle
 Film et serie
-2 methode
-ajour sur le nom du film ou de serie a la fin
+2 methodes
+ajout sur le nom du film ou de serie a la fin
 RES-xxxx-RES
-les xxxx sera la resolution enregistré par exemple 720p HDlight 
+les xxxx sera la resolution enregistrée par exemple 720p HDlight 
 ou 
 crééer un groupe reso par exemple
 REP_RES-xxxx-RES
-idem xxxx est la resolution , tous les films ou toyes les series seront taggés avec cette resolution  
+idem xxxx est la resolution , tous les films ou toutes les series seront taggés avec cette resolution  
 Pour strandardiser reportez vous au discord pour les noms de resolutions retenus 
 
 0.9.9.0.5a
