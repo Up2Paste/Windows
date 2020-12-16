@@ -1,3 +1,9 @@
+0.9.10b.0.5a
+correction serie rep reso
+possibilite res group avec rep reso
+RES_XXXX:RES-1080p-RES => XXXX est gardé en groupe
+RES_XXXX:YYYY:RES-1080p-RES -> XXXX:YYYY  est gardé en groupe
+
 0.9.10a.0.5a
 correction serie rep reso 
 
