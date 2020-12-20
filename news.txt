@@ -1,4 +1,10 @@
 0.9.11.0.5a
+U2P
+test smatfilter
+fichier blackliste dans config
+a complété si besoin
+
+0.9.11.0.5a
 paste masqué
 
 0.9.10c.0.5a
