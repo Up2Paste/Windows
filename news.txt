@@ -1,3 +1,8 @@
+0.9.11c.0.5a
+U2P
+edition fichier decrypt
+nouveau blacklist
+
 0.9.11b.0.5a
 U2P
 fix Anime
