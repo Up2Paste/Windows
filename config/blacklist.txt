@@ -1,4 +1,5 @@
 (?<!\w)(?# tout sauf chiffre et lettre)(?:[0-9]|1[0-7])[yY][Rr](?# minusc et maj 0 a 17yr)(?!\w)(?# tout sauf chiffre et lettre)
+[éàè](?:[0-9]|1[0-7])[yY][Rr](?# minusc et maj 0 a 17yr)(?!\w)(?# tout sauf chiffre et lettre)
  bodin 
  hardcore 
  bang gang 
