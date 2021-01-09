@@ -1,0 +1,8 @@
+Films
+=>0
+Series
+=>2
+Animes
+=>d
+Divers
+=>9

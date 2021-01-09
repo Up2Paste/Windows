@@ -1,3 +1,14 @@
+0.9.12.0.6
+U2P
+correction reso film
+ajout masque serie
+cryptage new format avec numpaste
+
+configU2P
+choix de la taill du fichier
+cryptage des numpaste
+
+
 0.9.11h.0.5a
 U2P
 correction update serie
