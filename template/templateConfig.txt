@@ -4,6 +4,7 @@ name = {name}
 certification = {certification}
 nbFormat = {nbFormat}
 majCast = {majCast}
+taillefichier = {tailleFichier}
 
 [Extract]
 serie = {extractSerie}
