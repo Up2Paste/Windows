@@ -1,3 +1,9 @@
+0.9.14.0.8
+test
+serie jusque 999 episode
+mise a jour auto anotepad 
+surtout bien verifier les infos , user , password et numpaste
+
 0.9.13.0.7
 U2P - configU2p
 test scan multi-dossiers
