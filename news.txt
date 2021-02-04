@@ -1,3 +1,6 @@
+0.9.14a.0.8a
+correction sup multibase
+
 0.9.14a.0.8
 correction maj anotepad
 remis fichier error result serie
