@@ -1,3 +1,7 @@
+0.9.14a.0.8
+correction maj anotepad
+remis fichier error result serie
+
 0.9.14.0.8
 test
 serie jusque 999 episode
