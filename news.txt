@@ -1,3 +1,6 @@
+0.9.14b.0.8b
+upload upto multi rep
+
 0.9.14b.0.8a
 modif sur serie et anime
 possibilité d'ajout de masque par fichier externe
