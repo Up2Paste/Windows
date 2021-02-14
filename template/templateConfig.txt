@@ -19,6 +19,7 @@ linkFolderFilm = {lienRepUpto}
 keyMovieDB = {keyTMDB}
 keyUpto = {keyUpto}
 key1fichier = {key1fichier}
+keyGoogle = {keyGoogle}
 
 [Fournisseur]
 url= {urlBase}
