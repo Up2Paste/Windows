@@ -1,3 +1,12 @@
+0.9.15b.0.9
+correction ; anime
+test nb episodes sup a 999 jusque 1699
+D?tective Conan 0218 480p VOSTFR.mkv => .D?tective.Conan.0218.480p.VOSTFR.
+D?tective Conan 1218 480p VOSTFR.mkv => .D?tective.Conan.1218.480p.VOSTFR.
+D?tective Conan E1218 480p VOSTFR.mkv => E011218
+D?tective Conan S01E1218 480p VOSTFR.mkv => E011218
+donc seul Exxxx ou SxxExxxx seront acceptés
+
 0.9.15a.0.9
 correction rep reso anime
 

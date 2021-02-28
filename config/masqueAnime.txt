@@ -1,0 +1,5 @@
+\.[eE](?P<episode>1[0-6]\d\d)\.
+^(?P<episode>\d?\d\d)\.
+\.(?P<episode>\d\d)\.
+[sS](?P<saison>\d?\d)\.?((?i)ep?)\.?(?P<episode>1[0-6]\d\d)\.
+\.(?P<episode>\d\d\d)\.
