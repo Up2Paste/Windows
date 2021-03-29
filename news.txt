@@ -1,3 +1,6 @@
+0.9.15c.0.9
+correction recherche serie-anime
+
 0.9.15b.0.9
 correction ; anime
 test nb episodes sup a 999 jusque 1699
